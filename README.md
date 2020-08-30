@@ -10,7 +10,7 @@ Your group will be creating a chat application. The features your team will buil
 * Use Bootstrap
 * Balanced GitHub contributions
 * Completed README
-* No Grunt errors
+* No Webpack errors
 * Use ES6 Modules
 
 ## Interacting With Your Product Owner
