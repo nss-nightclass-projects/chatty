@@ -1,5 +1,5 @@
 # Slack Clone Group Project
-Your group will be creating a slack clone. The features your team will build have already been added to your backlog in the "projects" section of this repo. This application should demonstrate your skills in:
+Your group will be creating a Slack clone. The features your team will build have already been added to your backlog in the "projects" section of this repo. This application should demonstrate your skills in:
 - React JS
 - Firebase
 - Asynchronous code
@@ -7,7 +7,7 @@ Your group will be creating a slack clone. The features your team will build hav
 - Debugging
 
 ## Requirements
-* Clean code
+* Clean code - Single Responsibility Principle!
 * Balanced GitHub Contributions
 * Completely planned out. Must fully complete milestones before moving to another.
 * SASS and Bootstrap for Styling
